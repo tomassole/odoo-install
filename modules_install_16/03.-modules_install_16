@@ -14,6 +14,7 @@ git clone -b 16.0 https://github.com/OCA/community-data-files.git
 git clone -b 16.0 https://github.com/OCA/contract.git 
 git clone -b 16.0 https://github.com/OCA/crm.git 
 git clone -b 16.0 https://github.com/OCA/event.git 
+git clone -b 16.0 https://github.com/OCA/edi-framework.git
 git clone -b 16.0 https://github.com/OCA/hr.git 
 git clone -b 16.0 https://github.com/OCA/timesheet.git 
 git clone -b 16.0 https://github.com/OCA/knowledge.git 
